@@ -17,7 +17,9 @@ public class TesteGithub {
     public static void main(String[] args) {
         // TODO code application logic here
         int n1 = 2;
-        System.out.println(n1);
+        int n2 = 3;
+        int r = n1 + n2;
+        System.out.println(r);
     }
     
 }
