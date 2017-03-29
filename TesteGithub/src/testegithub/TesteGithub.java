@@ -16,7 +16,8 @@ public class TesteGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Isso é uma mensagem de teste");
+        int n1 = 2;
+        System.out.println(n1);
     }
     
 }
